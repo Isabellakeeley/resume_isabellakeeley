@@ -7,9 +7,7 @@ body{
 }
 .photo{
     width: 300px;
-    align-items: center;
 }
 .bellyjelly {
-    display: flexbox;
-    align-items: center;
+display: flex;
 }
