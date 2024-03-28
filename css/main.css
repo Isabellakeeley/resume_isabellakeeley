@@ -9,5 +9,6 @@ body{
     width: 300px;
 }
 .bellyjelly {
-    text-align: right;
+    display: flexbox;
+    align-items: center;
 }
