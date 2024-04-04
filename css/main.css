@@ -1,6 +1,6 @@
 /* Place CSS styles here */
 body{
-    background-color: rgb(240, 195, 240);
+    background-color: rgb(231, 151, 247);
 }
 .photo{
     width: 300px;
@@ -11,7 +11,7 @@ body{
     display: flex;
     align-items: center;
     gap: 30px;
-    border:  10px solid rgb(240, 195, 240);
+    border:  10px solid rgb(239, 87, 239);
     margin: 10px;
   }
   .site {
