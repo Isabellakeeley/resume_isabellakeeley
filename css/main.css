@@ -8,3 +8,13 @@ body{
 .photo{
     width: 300px;
 }
+.meandmore {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    border: 1px solid black;
+    margin: 10px;
+  }
+  .site {
+    background-color: whitesmoke;
+  }
