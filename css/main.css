@@ -4,6 +4,7 @@ body{
 }
 .photo{
     width: 300px;
+    padding-left: 50px;
 }
 .meandmore {
     display: flex;
