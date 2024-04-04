@@ -3,7 +3,8 @@ body{
     background-color: rgb(231, 151, 247);
 }
 .photo{
-  border-style: groove;
+  border-style: dotted;
+  border-color: black 10px;
     width: 300px;
     padding-left: 50px;
     padding-right: 50px;
