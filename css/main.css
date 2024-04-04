@@ -9,7 +9,7 @@ body{
     display: flex;
     align-items: center;
     gap: 30px;
-    border: 5px solid rgb(19, 48, 212);
+    border: 5px solid rgb(240, 195, 240);
     margin: 10px;
   }
   .site {
